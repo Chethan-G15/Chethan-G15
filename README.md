@@ -1,5 +1,13 @@
 # 💫 About Me:
-i am Currently pursuing MCA<br>
+<ul>
+  <li>🎓 Currently pursuing <b>Master of Computer Applications (MCA)</b></li>
+  <li>💻 Skilled in <b>Java, HTML, CSS, JavaScript</b></li>
+  <li>☁️ Interested in <b>Cloud Technologies (OpenStack, IaaS, Virtual Machines, Networking)</b></li>
+  <li>🔧 Hands-on experience with <b>Linux (Ubuntu / Red Hat)</b></li>
+  <li>📚 Always learning new technologies and improving coding skills</li>
+  <li>🚀 Interested in real-world projects and open-source contributions</li>
+</ul>
+
 
 
 ## 🌐 Socials:
