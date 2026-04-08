@@ -1,7 +1,6 @@
 # 💫 About Me:
 <ul>
   <li>🎓 Currently pursuing <b>Master of Computer Applications (MCA)</b></li>
-  <li>💻 Skilled in <b>Java, HTML, CSS, JavaScript</b></li>
   <li>🧠 Strong understanding of <b>Object-Oriented Programming (OOP)</b> concepts</li>
   <li>📚 Always learning new technologies and improving coding skills</li>
   <li>🔍 Good problem-solving and analytical thinking skills</li>
