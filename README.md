@@ -2,10 +2,12 @@
 <ul>
   <li>🎓 Currently pursuing <b>Master of Computer Applications (MCA)</b></li>
   <li>💻 Skilled in <b>Java, HTML, CSS, JavaScript</b></li>
-  <li>☁️ Interested in <b>Cloud Technologies (OpenStack, IaaS, Virtual Machines, Networking)</b></li>
-  <li>🔧 Hands-on experience with <b>Linux (Ubuntu / Red Hat)</b></li>
+  <li>🧠 Strong understanding of <b>Object-Oriented Programming (OOP)</b> concepts</li>
   <li>📚 Always learning new technologies and improving coding skills</li>
+  <li>🔍 Good problem-solving and analytical thinking skills</li>
   <li>🚀 Interested in real-world projects and open-source contributions</li>
+   <li>🤝 Team player with good communication skills</li>
+  <li>⏱️ Ability to manage time and meet deadlines effectively</li>
 </ul>
 
 
